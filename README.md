@@ -12,6 +12,7 @@ explicando sua lógica ao longo do caminho.
 
 ## 🛠 Como executar
 - Abrir no https://colab.google/
+  -   Você pode fazer upload do arquivo ou utilizasr Github 
 - Abrir no Visual Studio Code utilizando um extensão Jupiter mais informações em [Introdução aos notebooks Jupyter para Python](https://believed-caper-7f1.notion.site/Introdu-o-aos-notebooks-Jupyter-para-Python-b3c8dd6708334674a5d21b74d98484c9?pvs=25)
 
 
