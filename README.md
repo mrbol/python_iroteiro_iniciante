@@ -8,3 +8,9 @@ Embora os desenvolvedores do Python também possam usar arquivos .py para execut
 explicando sua lógica ao longo do caminho.
 
 **cadeias_caracteres.ipynb** - Usar cadeias de caracteres no Python
+
+Como executar
+- Abrir no https://colab.google/
+- Abrir no Visual Studio Code utilizando um extensão Jupiter
+
+
