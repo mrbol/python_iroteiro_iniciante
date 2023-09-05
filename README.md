@@ -1,7 +1,7 @@
 # 📒 Python para iniciantes 
 ### Usar cadeias de caracteres no Python
 O **cadeias_caracteres.ipynb** é um notebooks Jupyter para executar o Python. 
-os desenvolvedores do Python têm algumas outras ferramentas à sua disposição e uma dessas ferramentas úteis é chamada de notebook. 
+Os desenvolvedores do Python têm algumas outras ferramentas à sua disposição e uma dessas ferramentas úteis é chamada de notebook. 
 
 Um notebook é um ambiente interativo que um desenvolvedor pode usar para executar blocos de código e adicionar áreas para documentação para explicar o próprio código. 
 Embora os desenvolvedores do Python também possam usar arquivos .py para executar programas Python diretamente, eles poderão usar notebooks para executar e documentar código, 
